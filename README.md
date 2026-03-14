@@ -10,4 +10,4 @@ S = ∏ᵢ₌₁ⁿ mᵢ; Multiplicative entropy
 
 Under the rule that energy gradients drive the redistribution of system energy, this entropy increases monotonically. For details, please see:
 
-First Version of Preprint: ( https://doi.org/10.20944/preprints202505.0270.v1 ; Posted: 06 May 2025) or Updated Versions, 
+First Version of Preprint: (Zou, Z. K. (2025). Time-Entropy Mirroring via Space Transformation and Mass-Gravity Duality via QCD-Higgs Synergy. Preprints. https://doi.org/10.20944/preprints202505.0270.v1 ; Posted: 06 May 2025) or Updated Versions, 
