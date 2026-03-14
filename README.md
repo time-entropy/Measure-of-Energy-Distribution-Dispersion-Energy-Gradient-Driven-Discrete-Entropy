@@ -1,0 +1,2 @@
+# Measure-of-Energy-Distribution-Dispersion-Energy-Gradient-Driven-Discrete-Entropy-
+Multiplicative Entropy is a novel form of algebraic entropy,non-statistical, introduced by the author Zou Zhikai in a series of manuscripts archived on Zenodo.org and preprints on Preprints.org since February 2025. This entropy is defined to provide a high-resolution measure of the dispersion of energy distribution for each system update.
